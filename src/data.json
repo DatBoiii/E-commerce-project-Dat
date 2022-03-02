@@ -1,0 +1,23 @@
+{
+    "products": [
+        {
+            "_id": "1",
+            "title": "Stem Player",
+            "image": "https://ph-files.imgix.net/6c3faa2d-ccaf-474d-95fd-b7429b42322b.gif?auto=format",
+            "price": 200,
+            "link": "./stemplayer"
+        },
+        {
+            "_id": "2",
+            "title": "Gap Coat",
+            "image": "https://media.gq.com/photos/60faee2e2a7aae32836ff46d/16:9/w_2560%2Cc_limit/yeezy-jacket.jpg",
+            "price": 60
+        },
+        {
+            "_id": "3",
+            "title": "Red Octobers",
+            "image": "https://images.stockx.com/images/Nike-Air-Yeezy-2-Red-October-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1606315975",
+            "price": 300
+        }
+    ]
+}
